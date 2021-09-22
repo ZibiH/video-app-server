@@ -11,10 +11,6 @@ app.use(express.json());
 app.use(setHeaders);
 
 app.use('/youtube/:id', fetchYt);
-
 app.use('/vimeo/:id', fetchVim);
-
-// const port = process.env.PORT || 3000;
-// app.listen(port, () => console.log(`listening on port ${port}`));
 
 module.exports = app;
