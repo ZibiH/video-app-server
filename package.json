@@ -1,0 +1,16 @@
+{
+	"name": "video-app-2-backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start:server": "nodemon server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.4",
+		"express": "^4.17.1"
+	}
+}
