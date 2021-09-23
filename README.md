@@ -7,3 +7,5 @@ GitHub - [GH VideoApp](https://github.com/ZibiH/VideoApp/)
 ### Technologies used:  
 - Express JS framework
 - Axios library
+
+Server deployed on Heroku
